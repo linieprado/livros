@@ -1,0 +1,69 @@
+{
+   "livros" = [
+    {
+        "id": 1,
+        "titulo": "Aprenda a programar em 10 lições fáceis ",
+        "autor": "Sean McManus",
+        "descricao": "Este livro ensina a desenvolver instruções simples de programação usando o software Scratch, a dominar as habilidades de codificação para criar seu próprio jogo de computador e até seu próprio website.",
+        capa: "https://images-na.ssl-images-amazon.com/images/I/61F-RDvlMqL.jpg"
+
+    },
+    {
+        "id": 2,
+        "titulo": "Computadores e programação : Brincar e aprender ",
+        "autor": "Edições Usborne",
+        "descricao": "Descubra como o computador funciona. Abra as janelinhas e veja um computador por dentro. Fique sabendo quais as peças que fazem esta máquina genial funcionar. Divirta-se com os fatos marcantes e curiosos da história desta invenção. Aprenda a fazer seus próprios desenhos animados!",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/51VFciiXqbL.jpg"
+    },
+    {
+        "id": 3,
+        "titulo": "Raciocínio e lógica para crianças",
+        "autor": "Discovery Publicações",
+        "descricao": "Este livro contém muitas atividades e brincadeiras que ajudam a criança a melhorar sua capacidade cognitiva e desenvolver o raciocínio lógico.",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/81a+yz6U5oL.jpg"
+    },
+    {
+        "id": 4,
+        "titulo": "Olá, Ruby: Uma Aventura Pela Programação",
+        "autor": "Linda Liukas",
+        "descricao": "Este é o livro ideal para os pequenos leitores que querem ficar por dentro da lógica da programação computacional e se divertir em uma aventura emocionante ao lado da divertida Ruby.",
+        "capa": "https://images-submarino.b2w.io/produtos/imagens/134437890/134437902_1SZ.jpg"
+    },
+    {
+        "id": 5,
+        "titulo": "My First Coding Book ",
+        "autor": "Kiki Prosttsman",
+        "descricao": "My First Coding Book é uma introdução lúdica e prática à codificação e programação offline que dará às crianças de 5 a 7 anos uma vantagem inicial. Idioma: Inglês",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/81F0jnyLlwL.jpg"
+    },
+    {
+        "id": 6,
+        "titulo": "Baby Loves Coding!",
+        "autor": "Ruth Spiro",
+        "descricao": "O Livro apresenta linguagem de programação de maneira apropriada para os bebês, afim de criar habilidades desde cedo e eventualmente uma base sólida para programação. Idioma: Inglês",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/81kYOr8tr2L.jpg"
+    },
+    {
+        "id": 7,
+        "titulo": "ABCs of the Web",
+        "autor": "Jonh C Vanden-Heuvel",
+        "descricao": "O livro traz a introdução perfeita aos conceitos básicos de codificação e web para crianças na forma do alfabeto. Idioma: Inglês",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/71UCyMDNj+L.jpg"
+    },
+    {
+        "id": 8,
+        "titulo": "Baby Code!",
+        "autor": "Sandra Horning",
+        "descricao": "Este charmoso livro de tabuleiro cheio de ilustrações brilhantes e coloridas é a introdução perfeita à codificação para bebês e seus cuidadores. Idioma: Inglês",
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/81-20J6HcPL.jpg"
+    },
+    {
+        "id": 9,
+        "titulo": "Get Coding",
+        "autor": "Young REwired State",
+        "descricao": "Livro para jovens leitores com várias missões divertidas - enquanto simultaneamente aprende os fundamentos da escrita de código. Idioma: Inglês",
+        "capa": "https://m.media-amazon.com/images/P/B07MWDVNXM.01._SCLZZZZZZZ_SX500_.jpg"
+    }
+
+]
+}
