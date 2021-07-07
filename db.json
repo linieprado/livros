@@ -1,11 +1,11 @@
 {
-   "livros" = [
+   "livros" : [
     {
         "id": 1,
         "titulo": "Aprenda a programar em 10 lições fáceis ",
         "autor": "Sean McManus",
         "descricao": "Este livro ensina a desenvolver instruções simples de programação usando o software Scratch, a dominar as habilidades de codificação para criar seu próprio jogo de computador e até seu próprio website.",
-        capa: "https://images-na.ssl-images-amazon.com/images/I/61F-RDvlMqL.jpg"
+        "capa": "https://images-na.ssl-images-amazon.com/images/I/61F-RDvlMqL.jpg"
 
     },
     {
